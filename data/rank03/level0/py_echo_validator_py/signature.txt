@@ -1,0 +1,1 @@
+def echo_validator(text: str) -> bool:
