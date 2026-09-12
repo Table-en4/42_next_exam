@@ -1,6 +1,20 @@
 {
-  "title": "#07",
+  "title": "number_base_converter",
+  "name": "py_number_base_converter",
+  "file": "py_number_base_converter.py",
   "level": "3",
   "rank": "03",
-  "lang": "EN"
+  "difficulty": "medium",
+  "forbidden": [],
+  "langs": [
+    "ar",
+    "de",
+    "en",
+    "es",
+    "fr",
+    "it",
+    "ru",
+    "tr",
+    "zh"
+  ]
 }

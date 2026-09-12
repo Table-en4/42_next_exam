@@ -1,0 +1,24 @@
+{
+  "title": "merge_sorted_lists",
+  "name": "py_merge_sorted_lists",
+  "file": "py_merge_sorted_lists.py",
+  "level": "2",
+  "rank": "04",
+  "difficulty": "medium",
+  "forbidden": [
+    "sorted()",
+    ".sort()",
+    "heapq.merge()"
+  ],
+  "langs": [
+    "ar",
+    "de",
+    "en",
+    "es",
+    "fr",
+    "it",
+    "ru",
+    "tr",
+    "zh"
+  ]
+}

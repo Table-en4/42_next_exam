@@ -1,0 +1,1 @@
+Écris une fonction qui réalise un chiffrement simple en décalant les lettres d’une chaîne d’un montant donné. Les caractères non alphabétiques restent inchangés.

@@ -1,1 +1,0 @@
-def hidenp(small: str, big: str) -> bool:

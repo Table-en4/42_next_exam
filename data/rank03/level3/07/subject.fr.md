@@ -1,0 +1,2 @@
+Écris une fonction qui convertit un nombre d'une base vers une autre.
+Prends en charge les bases de 2 à 36 inclus, avec les chiffres 0-9 et les lettres A-Z pour les valeurs 10-35. Renvoie "ERROR" pour les entrées invalides (base, chiffres).

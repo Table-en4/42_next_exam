@@ -1,6 +1,20 @@
 {
-  "title": "#01",
+  "title": "bracket_validator",
+  "name": "py_bracket_validator",
+  "file": "py_bracket_validator.py",
   "level": "1",
   "rank": "03",
-  "lang": "EN"
+  "difficulty": "easy",
+  "forbidden": [],
+  "langs": [
+    "ar",
+    "de",
+    "en",
+    "es",
+    "fr",
+    "it",
+    "ru",
+    "tr",
+    "zh"
+  ]
 }

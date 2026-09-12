@@ -1,0 +1,2 @@
+# no third-party deps: scraper uses the stdlib, tester uses the stdlib
+

@@ -1,6 +1,23 @@
 {
-  "title": "#02",
+  "title": "cryptic_sorter",
+  "name": "py_cryptic_sorter",
+  "file": "py_cryptic_sorter.py",
   "level": "1",
   "rank": "03",
-  "lang": "EN"
+  "difficulty": "easy",
+  "forbidden": [
+    "sorted()",
+    "list.sort()"
+  ],
+  "langs": [
+    "ar",
+    "de",
+    "en",
+    "es",
+    "fr",
+    "it",
+    "ru",
+    "tr",
+    "zh"
+  ]
 }

@@ -1,0 +1,1 @@
+def schedule_meetings(intervals: list[tuple[int, int]]) -> tuple[int, list]:

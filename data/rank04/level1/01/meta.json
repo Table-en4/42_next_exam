@@ -1,0 +1,22 @@
+{
+  "title": "array_rotation_detector",
+  "name": "py_array_rotation_detector",
+  "file": "py_array_rotation_detector.py",
+  "level": "1",
+  "rank": "04",
+  "difficulty": "easy",
+  "forbidden": [
+    "collections.deque.rotate()"
+  ],
+  "langs": [
+    "ar",
+    "de",
+    "en",
+    "es",
+    "fr",
+    "it",
+    "ru",
+    "tr",
+    "zh"
+  ]
+}

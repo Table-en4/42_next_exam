@@ -1,0 +1,1 @@
+Écris une fonction qui vérifie si deux chaînes sont des anagrammes. Elles doivent contenir exactement les mêmes lettres avec les mêmes quantités, en ignorant la casse et les espaces.

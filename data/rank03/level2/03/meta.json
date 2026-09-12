@@ -1,6 +1,20 @@
 {
-  "title": "#03",
+  "title": "echo_validator",
+  "name": "py_echo_validator",
+  "file": "py_echo_validator.py",
   "level": "2",
   "rank": "03",
-  "lang": "EN"
+  "difficulty": "easy",
+  "forbidden": [],
+  "langs": [
+    "ar",
+    "de",
+    "en",
+    "es",
+    "fr",
+    "it",
+    "ru",
+    "tr",
+    "zh"
+  ]
 }

@@ -1,0 +1,20 @@
+{
+  "title": "constellation_mapper",
+  "name": "py_constellation_mapper",
+  "file": "py_constellation_mapper.py",
+  "level": "1",
+  "rank": "04",
+  "difficulty": "medium",
+  "forbidden": [],
+  "langs": [
+    "ar",
+    "de",
+    "en",
+    "es",
+    "fr",
+    "it",
+    "ru",
+    "tr",
+    "zh"
+  ]
+}

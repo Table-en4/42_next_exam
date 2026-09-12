@@ -1,0 +1,1 @@
+Écris une fonction qui effectue une rotation à droite d'un tableau de k positions. Une rotation à droite de k signifie que les k derniers éléments sont déplacés vers l'avant.

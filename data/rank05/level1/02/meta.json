@@ -1,0 +1,20 @@
+{
+  "title": "generate_spiral",
+  "name": "py_spiral_matrix",
+  "file": "py_spiral_matrix.py",
+  "level": "1",
+  "rank": "05",
+  "difficulty": "medium",
+  "forbidden": [],
+  "langs": [
+    "ar",
+    "de",
+    "en",
+    "es",
+    "fr",
+    "it",
+    "ru",
+    "tr",
+    "zh"
+  ]
+}

@@ -1,0 +1,1 @@
+def array_rotation_detector(arr1: list, arr2: list) -> bool:

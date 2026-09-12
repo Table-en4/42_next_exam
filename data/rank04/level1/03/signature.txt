@@ -1,0 +1,1 @@
+def list_intersection_finder(lists: list[list[int]]) -> list[int]:

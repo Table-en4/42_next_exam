@@ -1,6 +1,20 @@
 {
-  "title": "#11",
+  "title": "string_permutation_checker",
+  "name": "py_string_permutation_checker",
+  "file": "py_string_permutation_checker.py",
   "level": "4",
   "rank": "03",
-  "lang": "EN"
+  "difficulty": "medium",
+  "forbidden": [],
+  "langs": [
+    "ar",
+    "de",
+    "en",
+    "es",
+    "fr",
+    "it",
+    "ru",
+    "tr",
+    "zh"
+  ]
 }

@@ -1,6 +1,20 @@
 {
-  "title": "#09",
+  "title": "anagram",
+  "name": "py_anagram",
+  "file": "py_anagram.py",
   "level": "4",
   "rank": "03",
-  "lang": "EN"
+  "difficulty": "medium",
+  "forbidden": [],
+  "langs": [
+    "ar",
+    "de",
+    "en",
+    "es",
+    "fr",
+    "it",
+    "ru",
+    "tr",
+    "zh"
+  ]
 }

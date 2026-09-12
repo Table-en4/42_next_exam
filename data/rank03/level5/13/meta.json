@@ -1,6 +1,20 @@
 {
-  "title": "#13",
+  "title": "twist_sequence",
+  "name": "py_twist_sequence",
+  "file": "py_twist_sequence.py",
   "level": "5",
   "rank": "03",
-  "lang": "EN"
+  "difficulty": "hard",
+  "forbidden": [],
+  "langs": [
+    "ar",
+    "de",
+    "en",
+    "es",
+    "fr",
+    "it",
+    "ru",
+    "tr",
+    "zh"
+  ]
 }

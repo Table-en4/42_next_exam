@@ -1,0 +1,22 @@
+{
+  "title": "py_graph_cycle_detector",
+  "name": "py_graph_cycle_detector",
+  "file": "py_graph_cycle_detector.py",
+  "level": "2",
+  "rank": "05",
+  "difficulty": "medium",
+  "forbidden": [
+    "graphlib.TopologicalSorter"
+  ],
+  "langs": [
+    "ar",
+    "de",
+    "en",
+    "es",
+    "fr",
+    "it",
+    "ru",
+    "tr",
+    "zh"
+  ]
+}

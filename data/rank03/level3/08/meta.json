@@ -1,6 +1,20 @@
 {
-  "title": "#08",
+  "title": "pattern_tracker",
+  "name": "py_pattern_tracker",
+  "file": "py_pattern_tracker.py",
   "level": "3",
   "rank": "03",
-  "lang": "EN"
+  "difficulty": "medium",
+  "forbidden": [],
+  "langs": [
+    "ar",
+    "de",
+    "en",
+    "es",
+    "fr",
+    "it",
+    "ru",
+    "tr",
+    "zh"
+  ]
 }

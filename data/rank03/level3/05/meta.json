@@ -1,6 +1,20 @@
 {
-  "title": "#05",
+  "title": "hidenp",
+  "name": "py_hidenp",
+  "file": "py_hidenp.py",
   "level": "3",
   "rank": "03",
-  "lang": "EN"
+  "difficulty": "medium",
+  "forbidden": [],
+  "langs": [
+    "ar",
+    "de",
+    "en",
+    "es",
+    "fr",
+    "it",
+    "ru",
+    "tr",
+    "zh"
+  ]
 }

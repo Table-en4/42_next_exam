@@ -1,0 +1,1 @@
+Écris une fonction qui vérifie si la chaîne 'small' est une sous-suite (subsequence) de 'big'. Une sous-suite signifie que tous les caractères de 'small' apparaissent dans 'big' dans le même ordre, mais pas nécessairement de manière consécutive. La fonction est sensible à la casse.

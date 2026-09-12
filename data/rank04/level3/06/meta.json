@@ -1,0 +1,22 @@
+{
+  "title": "package_dependency_resolver",
+  "name": "py_package_dependency_resolver",
+  "file": "py_package_dependency_resolver.py",
+  "level": "3",
+  "rank": "04",
+  "difficulty": "hard",
+  "forbidden": [
+    "graphlib.TopologicalSorter"
+  ],
+  "langs": [
+    "ar",
+    "de",
+    "en",
+    "es",
+    "fr",
+    "it",
+    "ru",
+    "tr",
+    "zh"
+  ]
+}

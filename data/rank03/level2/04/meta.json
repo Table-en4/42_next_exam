@@ -1,6 +1,20 @@
 {
-  "title": "#04",
+  "title": "mirror_matrix",
+  "name": "py_mirror_matrix",
+  "file": "py_mirror_matrix.py",
   "level": "2",
   "rank": "03",
-  "lang": "EN"
+  "difficulty": "easy",
+  "forbidden": [],
+  "langs": [
+    "ar",
+    "de",
+    "en",
+    "es",
+    "fr",
+    "it",
+    "ru",
+    "tr",
+    "zh"
+  ]
 }

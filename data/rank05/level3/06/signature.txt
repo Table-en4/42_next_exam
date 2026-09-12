@@ -1,0 +1,1 @@
+def prism_detector(grid: list[str], pattern: str):

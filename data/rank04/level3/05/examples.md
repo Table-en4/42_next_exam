@@ -1,0 +1,12 @@
+Input
+palindrome_partitioner("aab")
+Output
+1
+Input
+palindrome_partitioner("aba")
+Output
+0
+Input
+palindrome_partitioner("abc")
+Output
+2

@@ -1,0 +1,2 @@
+def compress(s: str) -> str:
+def decompress(s: str) -> str:

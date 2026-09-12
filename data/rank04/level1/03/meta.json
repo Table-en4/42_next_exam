@@ -1,0 +1,20 @@
+{
+  "title": "list_intersection_finder",
+  "name": "py_list_intersection_finder",
+  "file": "py_list_intersection_finder.py",
+  "level": "1",
+  "rank": "04",
+  "difficulty": "easy",
+  "forbidden": [],
+  "langs": [
+    "ar",
+    "de",
+    "en",
+    "es",
+    "fr",
+    "it",
+    "ru",
+    "tr",
+    "zh"
+  ]
+}

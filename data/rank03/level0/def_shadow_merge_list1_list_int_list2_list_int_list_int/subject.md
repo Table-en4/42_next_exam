@@ -1,1 +1,0 @@
-Write a function that merges two sorted lists into one sorted list.

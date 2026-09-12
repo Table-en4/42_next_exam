@@ -1,0 +1,12 @@
+Input
+compress("aabcccccaaa")
+Output
+"a2bc5a3"
+Input
+decompress("a2bc5a3")
+Output
+"aabcccccaaa"
+Input
+compress("")
+Output
+""

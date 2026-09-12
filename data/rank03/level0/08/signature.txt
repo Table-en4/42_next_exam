@@ -1,1 +1,0 @@
-def pattern_tracker(text: str) -> int:

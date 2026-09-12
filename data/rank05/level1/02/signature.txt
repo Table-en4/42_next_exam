@@ -1,0 +1,1 @@
+def generate_spiral(n: int) -> list[list[int]]:

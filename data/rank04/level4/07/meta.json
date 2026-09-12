@@ -1,0 +1,20 @@
+{
+  "title": "sliding_window_maximum",
+  "name": "py_sliding_window_maximum",
+  "file": "py_sliding_window_maximum.py",
+  "level": "4",
+  "rank": "04",
+  "difficulty": "hard",
+  "forbidden": [],
+  "langs": [
+    "ar",
+    "de",
+    "en",
+    "es",
+    "fr",
+    "it",
+    "ru",
+    "tr",
+    "zh"
+  ]
+}

@@ -1,0 +1,1 @@
+Écris une fonction qui renvoie une chaîne contenant les caractères qui apparaissent dans les deux chaînes, sans répétition. Les caractères sont ajoutés dans l'ordre où ils apparaissent dans la première chaîne.

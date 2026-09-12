@@ -1,6 +1,20 @@
 {
-  "title": "#14",
+  "title": "whisper_cipher",
+  "name": "py_whisper_cipher",
+  "file": "py_whisper_cipher.py",
   "level": "6",
   "rank": "03",
-  "lang": "EN"
+  "difficulty": "hard",
+  "forbidden": [],
+  "langs": [
+    "ar",
+    "de",
+    "en",
+    "es",
+    "fr",
+    "it",
+    "ru",
+    "tr",
+    "zh"
+  ]
 }

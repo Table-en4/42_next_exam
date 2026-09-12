@@ -1,0 +1,20 @@
+{
+  "title": "word_ladder",
+  "name": "py_word_ladder",
+  "file": "py_word_ladder.py",
+  "level": "3",
+  "rank": "05",
+  "difficulty": "hard",
+  "forbidden": [],
+  "langs": [
+    "ar",
+    "de",
+    "en",
+    "es",
+    "fr",
+    "it",
+    "ru",
+    "tr",
+    "zh"
+  ]
+}

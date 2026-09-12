@@ -1,0 +1,20 @@
+{
+  "title": "island_matrix_counter",
+  "name": "py_island_matrix_counter",
+  "file": "py_island_matrix_counter.py",
+  "level": "2",
+  "rank": "05",
+  "difficulty": "medium",
+  "forbidden": [],
+  "langs": [
+    "ar",
+    "de",
+    "en",
+    "es",
+    "fr",
+    "it",
+    "ru",
+    "tr",
+    "zh"
+  ]
+}

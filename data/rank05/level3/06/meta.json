@@ -1,0 +1,20 @@
+{
+  "title": "prism_detector",
+  "name": "py_prism_detector",
+  "file": "py_prism_detector.py",
+  "level": "3",
+  "rank": "05",
+  "difficulty": "hard",
+  "forbidden": [],
+  "langs": [
+    "ar",
+    "de",
+    "en",
+    "es",
+    "fr",
+    "it",
+    "ru",
+    "tr",
+    "zh"
+  ]
+}

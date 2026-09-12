@@ -1,6 +1,20 @@
 {
-  "title": "#10",
+  "title": "shadow_merge",
+  "name": "py_shadow_merge",
+  "file": "py_shadow_merge.py",
   "level": "4",
   "rank": "03",
-  "lang": "EN"
+  "difficulty": "medium",
+  "forbidden": [],
+  "langs": [
+    "ar",
+    "de",
+    "en",
+    "es",
+    "fr",
+    "it",
+    "ru",
+    "tr",
+    "zh"
+  ]
 }

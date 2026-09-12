@@ -1,0 +1,1 @@
+Écris une fonction qui vérifie si une chaîne est un palindrome, en ignorant espaces et casse, et en ne considérant que les caractères alphabétiques pour la comparaison.

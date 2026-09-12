@@ -1,0 +1,20 @@
+{
+  "title": "palindrome_partitioner",
+  "name": "py_palindrome_partitioner",
+  "file": "py_palindrome_partitioner.py",
+  "level": "3",
+  "rank": "04",
+  "difficulty": "hard",
+  "forbidden": [],
+  "langs": [
+    "ar",
+    "de",
+    "en",
+    "es",
+    "fr",
+    "it",
+    "ru",
+    "tr",
+    "zh"
+  ]
+}

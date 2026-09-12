@@ -1,0 +1,20 @@
+{
+  "title": "compress",
+  "name": "py_compress_decompress",
+  "file": "py_compress_decompress.py",
+  "level": "1",
+  "rank": "05",
+  "difficulty": "easy",
+  "forbidden": [],
+  "langs": [
+    "ar",
+    "de",
+    "en",
+    "es",
+    "fr",
+    "it",
+    "ru",
+    "tr",
+    "zh"
+  ]
+}

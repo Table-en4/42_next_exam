@@ -1,0 +1,1 @@
+Écris une fonction qui compte le nombre de paires de chiffres consécutifs valides dans une chaîne. Une paire valide est formée de deux chiffres adjacents dont le second vaut exactement un de plus que le premier. Un 9 suivi d’un 0 n’est PAS une paire valide.

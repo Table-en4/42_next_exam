@@ -1,0 +1,1 @@
+def constellation_mapper(stars: list[tuple[int, int]], dim: int) -> list[str]:

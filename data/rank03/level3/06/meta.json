@@ -1,6 +1,20 @@
 {
-  "title": "#06",
+  "title": "inter",
+  "name": "py_inter",
+  "file": "py_inter.py",
   "level": "3",
   "rank": "03",
-  "lang": "EN"
+  "difficulty": "medium",
+  "forbidden": [],
+  "langs": [
+    "ar",
+    "de",
+    "en",
+    "es",
+    "fr",
+    "it",
+    "ru",
+    "tr",
+    "zh"
+  ]
 }
