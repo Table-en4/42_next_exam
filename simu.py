@@ -405,8 +405,16 @@ def cmd_examples(state, tr):
 
 def cmd_edit(state):
     path = stub_path(state.current_func_name)
-    editor = os.environ.get("EDITOR", "vi")
-    subprocess.call([editor, str(path)])
+    editor = os.environ.get("EDITOR")
+    vim_edit = subprocess.call(["vim", str(path)])
+    if vim_edit:
+        return
+    if editor:
+        subprocess.call([editor, str(path)])
+    elif shutil.which("vim"):
+        subprocess.call(["vim", str(path)])
+    else:
+        subprocess.call(["xdg-open", str(path)])
 
 
 def advance_level(state, tr):
