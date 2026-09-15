@@ -19,14 +19,7 @@ scrape: install
 	$(PY) scraper.py --rank $(RANK)
 
 run:
-	@read -p "'fr' or 'en' ? "; \
-	if [ "$$lang" = "fr" ]; then \
-		$(PYTHON) simu.py --lang fr; \
-	elif [ "$$lang" = "en" ]; then \
-		$(PYTHON) simu.py --lang en; \
-	else \
-		$(PYTHON) simu.py; \
-	fi
+	$(PYTHON) simu.py; \
 
 fr:
 	$(PYTHON) simu.py --lang fr
@@ -41,6 +34,6 @@ clean:
 fclean: clean
 	rm -rf $(VENV)
 
-re: fclean install
+re: fclean install run
 
 .PHONY: all install scrape run fr en clean fclean re

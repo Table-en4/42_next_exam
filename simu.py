@@ -513,7 +513,7 @@ def main():
 
         try:
             raw = input(prompt)
-        except EOFError:
+        except (KeyboardInterrupt, EOFError):
             print(f"\n{tr.t('goodbye')}")
             break
 
